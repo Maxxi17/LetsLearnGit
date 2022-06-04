@@ -1,5 +1,4 @@
-a=9
-print('Hello, world!', a)
-
+print('Hello, world!')
+ 
 
 
