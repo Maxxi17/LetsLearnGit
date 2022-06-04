@@ -1,5 +1,7 @@
 a=9
-print('Hello, world!', a)
+c=1
+b=a+c
+print('Hello, world!', b)
 
 
 
